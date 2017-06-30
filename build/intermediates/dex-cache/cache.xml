@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="5a5f66c5e2fb51678c99dbdcbee08f813ed16821">
+        <dex dex="/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_de062c1cf4ddc75edad3419cadfb6bfd548c0708/classes.dex" />
+    </item>
+    <item
+        jar="/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="8155f3ebe7ebeabc5340ac307db21c39cc2453d0">
+        <dex dex="/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13c8c684d93fbea7d1029c7026fb8b53f6d8318b/classes.dex" />
+    </item>
+
+</items>

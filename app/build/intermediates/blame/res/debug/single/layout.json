@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout/activity_chat_singlemessage.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout/activity_chat_singlemessage.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout/row_devices.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout/row_devices.xml"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout/activity_demo__key__display.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout/activity_demo__key__display.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout/activity_message_.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout/activity_message_.xml"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout/activity_message_.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout/activity_message_.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout/device_detail.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout/device_detail.xml"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout/device_detail.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout/device_detail.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout/activity_chat_singlemessage.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout/activity_chat_singlemessage.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout/activity_demo__key__display.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout/activity_demo__key__display.xml"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout/row_devices.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout/row_devices.xml"
+    }
+]

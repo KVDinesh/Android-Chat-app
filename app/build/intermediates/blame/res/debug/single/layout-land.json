@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/layout-land/main.xml",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/layout-land/main.xml"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/layout-land/main.xml",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/layout-land/main.xml"
+    }
+]

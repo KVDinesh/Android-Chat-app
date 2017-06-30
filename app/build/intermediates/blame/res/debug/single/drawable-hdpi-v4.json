@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_discover.png",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/drawable-hdpi/ic_action_discover.png"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_discover.png",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/drawable-hdpi/ic_action_discover.png"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_on_off.png",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/drawable-hdpi/ic_action_on_off.png"
+    },
+    {
+        "merged": "/Users/shyam/Downloads/SecureWifiDirect-master/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/shyam/Downloads/SecureWifiDirect-master/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_on_off.png",
+        "source": "/Users/shyam/Documents/Wifi-Direct_SecureChat/app/src/main/res/drawable-hdpi/ic_action_on_off.png"
+    }
+]
